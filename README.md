@@ -30,7 +30,6 @@ This notebook imports the following
 import xmltodict
 from glom import glom
 import pandas as pd
-import numpy as np
 import fitz # pip install PyMuPDF
 ```
 
